@@ -1,0 +1,6 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.6.0
+  pdf_widgets: ^3.6.0
+  qr_flutter: ^4.0.0
